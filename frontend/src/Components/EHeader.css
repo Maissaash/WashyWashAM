@@ -1,0 +1,38 @@
+.options{
+    display: inline-block;
+    list-style: none;
+    padding: 28px 30px;
+   
+}
+.activeHeaders{
+    text-decoration: none;
+    font-size: 20px;
+    color: #fff;
+}
+
+/* .active{
+    border-bottom:solid 2px #fff;
+padding-bottom: 23px;
+    
+} */
+.header-customers{
+    height: 75px;
+    margin: 20px auto;
+    width:100%;
+    outline: none;
+    background: linear-gradient(50deg,#2096ff,#05ffa3);
+    border: none;
+    text-transform: uppercase;
+    margin-left: 1.1em;
+    box-shadow: -7px 7px 10px rgba(0, 0, 0, 0.12);
+}
+#logOut{
+    float:right;
+   
+}
+#logout{
+    color: #2096ff;
+    font-size: 20px;
+ 
+
+}

@@ -1,0 +1,125 @@
+.footer {
+    padding: 4em 0;
+       background-color: #171717;
+        height: 230px; 
+       margin-top: 40px;
+       margin-bottom: 0px;
+  }
+  .footer h4 {
+      margin:0 0 .5em;
+  }
+  .footer h3 {
+      color: #fff;
+      font-size: 1.6em;
+      margin: 0.4em ;
+      margin-left: -3em;
+      text-transform: capitalize;
+  }
+  
+  .footer-grids ul li a:hover {
+    color: #fff;
+  }
+  .agileinfo-social-grids li{
+      margin: 10px;
+      
+  }
+  .fa{
+      color: #22bcff;
+      font-size: 20px;
+  }
+  .fa:hover{
+      color: #fff;
+  }
+  .footer-grids p  a{
+      color: #bdbdbd;
+      font-size: 15px;
+      text-decoration: none;
+    
+
+  }
+  .footer-grids p a:hover {
+      color:#22bcff;
+  }
+  .footer-grids p {
+      color: #bdbdbd;
+      font-size: 18px;
+      line-height: 1em;
+      letter-spacing: .9px;
+  }
+  
+  
+  .footer-grids h6 a {
+      color: #fff;
+      text-decoration: none;
+  }
+  .footer-grids h6 a {
+      font-family: 'Cabin Sketch', cursive;
+      font-size: 5em;
+      letter-spacing: 4px;
+      font-weight: 700;
+      float: left;
+      display:block;
+      position: relative;
+  }
+  .footer-grids h6 a span.f-letter {
+      color: #22bcff;
+  }
+
+
+  .copyright-wthree {
+    background: #171717;
+    padding: 25px 0px;
+    border-top: 1px solid #2d2d2d;
+    height: 64px;;
+}
+.copyright-wthree p {
+    color: #fff;
+    font-size: 14px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    text-align: left;
+    float: left;
+    margin-left: -6em;
+}
+ul.b-nav li a:hover {
+	color:#22bcff;
+}
+.copyright-wthree p a {
+	color: #22bcff;
+	text-decoration: none;
+}
+.copyright-wthree p a:hover {
+    color: #ffffff;
+}
+
+.bottons-agileits-w3layouts {
+    margin-top:2em;
+}
+
+
+.logo-image{
+     width: 80px;
+    height: 80px; 
+
+    
+}
+.col-md-3 {
+    display: inline-block;
+    margin-left: 5%;
+    
+}
+.logo-title{
+display: flex;
+left: -150px;
+top: -150px;
+position:absolute;
+}
+/* .footer-ams{
+    margin-bottom: 0px;
+    position: absolute;
+    width: 100%;
+
+} */
+.title-footer{
+    font-size:12px;
+}
